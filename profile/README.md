@@ -12,4 +12,4 @@ iOS 개발을 공부하면서 WWDC 장학생, Swift Student Challenge 우승자�
 
 ## WWDC 장학생 혹은 Swift Student Challenge 우승자 이신가요?
 
-🎉 축하드립니다. 메일 주시면 확인 후 Organization 초대를 드리겠습니다.
+🎉 축하드립니다. [메일](mailto:chic0815@icloud.com) 주시면 확인 후 Organization 초대를 드리겠습니다.
