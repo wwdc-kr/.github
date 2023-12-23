@@ -15,3 +15,7 @@ iOS 개발을 공부하면서 WWDC 장학생, Swift Student Challenge 위너를 
 🎉 축하드립니다. Organization 초대를 위해 [Discussions](https://github.com/orgs/wwdc-kr/discussions) 에 공지된 안내를 확인해주세요.
 
 > **참고** 전세계 위너들을 만나보고 싶다면, [wwdcscholars.com](https://www.wwdcscholars.com) 을 방문해보세요 
+
+## 더 알아가기
+
+[![Instagram](https://img.shields.io/badge/@wwdc_scholars_kr-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://bit.ly/3JyMWMi)
