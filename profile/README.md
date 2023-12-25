@@ -18,4 +18,4 @@ iOS 개발을 공부하면서 WWDC 장학생, Swift Student Challenge 위너를 
 
 ## 더 알아가기
 
-[![Instagram](https://img.shields.io/badge/@wwdc_scholars_kr-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://bit.ly/3JyMWMi)
+[![Instagram](https://img.shields.io/badge/@wwdc_scholars_kr-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wwdc_scholars_kr)
