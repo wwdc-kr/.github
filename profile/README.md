@@ -24,7 +24,7 @@ iOS 개발을 공부하면서 챌린지 위너를 꿈꾸는 학생들을 위해 
 
 ## WWDC 장학생 혹은 Swift Student Challenge 위너 이신가요?
 
-🎉 축하드립니다. Organization 초대를 위해 [Discussions](https://github.com/orgs/wwdc-kr/discussions) 에 공지된 안내를 확인해주세요.
+🎉 축하드립니다. Organization 초대를 위해 [Discussions](https://github.com/orgs/wwdc-kr/discussions/12) 에 공지된 안내를 확인해주세요.
 
 > **참고** 전세계 위너들을 만나보고 싶다면, [wwdcscholars.com](https://www.wwdcscholars.com) 을 방문해보세요 
 
