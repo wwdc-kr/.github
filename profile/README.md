@@ -1,8 +1,8 @@
 # 한국  WWDC 장학생 & Swift Student Challenge 위너 단체
 
-## WWDC Scholars & Swift Students Korea
+## WWDC Scholars/Winners & Swift Students Korea
 
-👋 WWDC 한국 장학생 여러분들, 그리고 iOS를 공부하시는 국내 학생분들 모두 환영합니다.
+👋 WWDC 한국 장학생/위너 여러분들, 그리고 Swift를 공부하시는 국내 학생분들 모두 환영합니다.
 
 ## Swift Student Challenge 가 뭔가요?
 
@@ -14,11 +14,11 @@ Apple 에서 차세대 개발자, 크리에이터, 기업인들을 지원하고 
 
 > 신청서 제출은 매년 초 진행됩니다. 자세한 내용은 [애플 홈페이지](https://developer.apple.com/kr/swift-student-challenge/?cid=apple-newsroom)에서 확인해보세요.
 
-iOS 개발을 공부하면서 챌린지 위너를 꿈꾸는 학생들을 위해 제출했던 프로젝트들을 공개하고 있습니다.
+Swift를 공부하면서 챌린지 위너를 꿈꾸는 학생들을 위해 제출했던 프로젝트들을 공개하고 있습니다.
 
 [👉🏽프로젝트 모아보기](https://github.com/wwdc-kr/Submissions)
 
-또한 함께 스터디를 하고 챌린지 관련 소식, iOS 관련 정보를 공유하는 디스코드 서버를 운영하고 있습니다.
+또한 함께 스터디를 하고 챌린지 관련 소식, 애플 관련 개발/디자인 정보를 공유하는 디스코드 서버를 운영하고 있습니다.
 
 [👾디스코드](https://discord.gg/AES2GmPMc7)
 
